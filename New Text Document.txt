@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Barathraj Manthiramoorthy Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Barathraj Manthiramoorthy</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#publications">Publications</a></li>
+                <li><a href="#certifications">Certifications</a></li>
+                <li><a href="#honors">Honors & Awards</a></li>
+                <li><a href="#memberships">Memberships</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Self-driven and knowledgeable undergraduate student with strong technical skills, problem-solving skills, and a strong mathematical background. Have an interest in leading and working with teams. Seeking opportunities in Robotics and AI or Electronics and Embedded-IOT to create something special.</p>
+    </section>
+    <section id="education">
+        <h2>Education</h2>
+        <p><strong>University of Moratuwa (2020 - Present)</strong>: Department of Electrical Engineering, Current GPA: 3.43/4.2</p>
+        <p><strong>Jaffna Hindu College (2010 - 2018)</strong>: Achieved results superior to 99% of fellow students island-wide</p>
+        <p><strong>Primary Education</strong>: J/ Periyapulam Maha Vidyalayam (2005 - 2009)</p>
+    </section>
+    <section id="skills">
+        <h2>Skills</h2>
+        <p><strong>Languages:</strong> Python, C/C++</p>
+        <p><strong>Tools:</strong> MATLAB, Eagle PCB, PSEE, Circuit Maker, Proteus, Wolfram Mathematica, Arduino, Visual Basic, Visual Studio Code, Code Composer Studio, SolidWorks, ROS, COMSOL, LTspice, Blender, Webots, PSCAD, PLC</p>
+    </section>
+    <section id="projects">
+        <h2>Projects</h2>
+        <p><strong>Intelligent Beach Cleaning Robot (2023)</strong></p>
+        <ul>
+            <li>Development of a prototype intelligent beach cleaning robot with dual-mode refuse collection and advanced techniques</li>
+            <li>Contribution: Designed the refuse collection system using SolidWorks, built the prototype robot, implemented embedded system control, and developed autonomous navigation algorithms for efficient beach cleaning</li>
+        </ul>
+        <p><strong>Automatic Power Factor Correction (2022)</strong></p>
+        <ul>
+            <li>Designed an automated system to continuously monitor the power factor and adjust the capacitive bank as needed, without human intervention</li>
+            <li>Contribution: Designed and simulated the RLC circuit system using Proteus and automated its functionality</li>
+        </ul>
+        <p><strong>Weather Station Project (2021)</strong></p>
+        <ul>
+            <li>Developed a small device using Arduino to monitor environmental parameters (temperature, humidity, air pressure) and upload data to cloud storage</li>
+            <li>Contribution: Implemented air quality monitoring with MQ135 module and IoT analytics. Designed wind speed monitoring using a wind turbine and IR speed sensing module</li>
+        </ul>
+    </section>
+    <section id="experience">
+        <h2>Experience</h2>
+        <p><strong>Vega Innovations Pvt Ltd | Trainee Electronic Engineer, Power Electronics (Jan 2023 - Jun 2023)</strong></p>
+        <ul>
+            <li>ESP32 - IoT Connection | Embedded, rs485, Serial Com, MQTT(mosquitto), HTTP, Nodered, XCTU</li>
+            <li>Inverter Display Project | Embedded, Code Composer Studio, LCD display, time ISR, Touch display</li>
+            <li>DAB Converter Simulation | control system, PID tuning, MATLAB, Design</li>
+            <li>Motor Controller Soldering and Testing | Soldering, Circuit analysis, BOM, Testing</li>
+        </ul>
+    </section>
+    <section id="publications">
+        <h2>Publications</h2>
+        <p><strong>Paper published on “Design of Refuse Collection Mechanisms for an Intelligent Beach Cleaning Robot”</strong> at ERU Symposium 2023, University of Moratuwa (Nominated for Best Paper Award, Presented with Poster and Oral presentation)</p>
+    </section>
+    <section id="certifications">
+        <h2>Certifications</h2>
+        <ul>
+            <li>Embedded Systems: Project Development</li>
+            <li>Arduino and Programming in Internet of Things</li>
+            <li>Application of Sensors in Mechatronics</li>
+            <li>Introduction to Embedded Machine Learning</li>
+            <li>Machine Learning with Artificial Intelligence</li>
+            <li>Introduction to Neural Network</li>
+            <li>Basic Industrial Control System Cybersecurity Training Course</li>
+            <li>Master PLC Programming</li>
+            <li>Siemens PLC Training for Beginners</li>
+            <li>Battery Technologies</li>
+            <li>Motors and Controllers for Electric Vehicles</li>
+            <li>SQL (Basic) - Hacker Rank</li>
+        </ul>
+    </section>
+    <section id="honors">
+        <h2>Honors & Awards</h2>
+        <ul>
+            <li>IEEE R10 Robotics Competition 2024 Sri Lanka Section - First Place</li>
+            <li>International Youth Math Challenge 2023 – Silver Honour</li>
+            <li>International Youth Math Challenge 2022 – Bronze Honour</li>
+            <li>International Mathematics Competition for Undergraduates 2022 – Certificate</li>
+            <li>International Astronomy and Astrophysics Competition 2022 – Up to Pre-final Round</li>
+            <li>Open Mathematical Olympiad for University Students 2022 – Second Prize</li>
+            <li>Mora Mathematics Competition 2020 – Certificate</li>
+            <li>Mathlete 2020 – University Level Mathematics Competition – Second Place</li>
+            <li>All Island Mathematics Quiz Competition (Dec 2017) – First Place with Gold Medal</li>
+            <li>National Mathematics Olympiad Competition (March 2015) – Certificate</li>
+        </ul>
+    </section>
+    <section id="memberships">
+        <h2>Memberships</h2>
+        <ul>
+            <li>IEEE, SEDS Sri Lanka, All India Council for Technical Skill Development (AICTSD)</li>
+            <li>Clubs: EESoc, SEDS Mora, Mathematics Society - University of Moratuwa</li>
+            <li>Volunteering: IESL JIY (Regional representative 2021), HRM panel member in M-Tutor (2020,2021), “Gammedda IEEE We phase 3” for school students (Regional representative 2022)</li>
+        </ul>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:m.barathraj1999@gmail.com">m.barathraj1999@gmail.com</a></p>
+        <p>Phone: +94763029567</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/barathraj-manthiramoorthy-293b881b4">Barathraj Manthiramoorthy</a></p>
+        <p>GitHub: <a href="https://github.com/Barath567">Barath567</a></p>
+    </section>
+</body>
+</html>
